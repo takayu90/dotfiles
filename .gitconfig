@@ -1,0 +1,11 @@
+[user]
+  name = Takayu Ida
+  email = takayu_ida@rosso-tokyo.co.jp
+[alias]
+  co = checkout
+  st = status
+  br = branch
+  oneline = "log --date=format:'%y-%m-%d %H:%M' --pretty=format:'%C(yellow)%h%C(reset) %ad %C(green)%an%C(reset) : %s'"
+  graph = "log --date=format:'%y-%m-%d %H:%M' --pretty=format:'%C(yellow)%h%C(reset) %ad %C(green)%an%C(reset) : %s' --graph"
+  numstat = "log --date=format:'%y-%m-%d %H:%M' --pretty=format:'%C(yellow)%h%C(reset) %ad %C(green)%an%C(reset) : %s' --numstat"
+  gphone = "log --graph --oneline"
